@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Pagination } from '@aragon/ui'
+import { Pagination } from '@monesign/ui'
 
 import Page from 'comps/Page/Page'
 import Container from '../components/Page/DemoContainer'

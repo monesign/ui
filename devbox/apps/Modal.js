@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import styled from 'styled-components'
-import { Button, Modal, IconPlus, IconMinus } from '@aragon/ui'
+import { Button, Modal, IconPlus, IconMinus } from '@monesign/ui'
 import Lorem from '../components/Lorem'
 
 function App() {

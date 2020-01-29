@@ -106,4 +106,4 @@ export {
   IconWrite,
   IconZoomIn,
   IconZoomOut,
-} from "@aragon/ui"
+} from "@monesign/ui"

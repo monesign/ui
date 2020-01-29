@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box, Split, Header, Help, GU, Link } from '@aragon/ui'
+import { Box, Split, Header, Help, GU, Link } from '@monesign/ui'
 
 function App() {
   return (

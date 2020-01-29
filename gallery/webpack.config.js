@@ -68,7 +68,7 @@ module.exports = (env, argv) => {
         pages: path.resolve(__dirname, 'src/pages'),
         comps: path.resolve(__dirname, 'src/components'),
         src: path.resolve(__dirname, 'src'),
-        '@aragon/ui': path.resolve(__dirname, '..'),
+        '@monesign/ui': path.resolve(__dirname, '..'),
         'ui-src': path.resolve(__dirname, '../src'),
         'ui-docs': path.resolve(__dirname, '../docs'),
       },

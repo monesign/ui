@@ -1,5 +1,5 @@
 import React from 'react'
-import { AddressField, Tag } from '@aragon/ui'
+import { AddressField, Tag } from '@monesign/ui'
 
 import Page from 'comps/Page/Page'
 import Container from '../components/Page/DemoContainer'

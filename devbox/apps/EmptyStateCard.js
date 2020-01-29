@@ -1,5 +1,5 @@
 import React from 'react'
-import { Button, EmptyStateCard } from '@aragon/ui'
+import { Button, EmptyStateCard } from '@monesign/ui'
 
 import emptyStatePng from '../assets/voting-empty-state.png'
 

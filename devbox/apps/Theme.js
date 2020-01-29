@@ -8,7 +8,7 @@ import {
   Main,
   TextInput,
   Theme,
-} from '@aragon/ui'
+} from '@monesign/ui'
 
 function App() {
   const [theme, setTheme] = useState(Theme.EMBEDDED_THEMES.light)

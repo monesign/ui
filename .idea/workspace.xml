@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d69c19aa-3ed7-439b-bee2-cada02dbe1ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/devbox/all-icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/all-icons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Accordion.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Accordion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/AddressField.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/AddressField.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/AppBadge.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/AppBadge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/AppBarTabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/AppBarTabs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/AppView.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/AppView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/AutoComplete.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/AutoComplete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Bar.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Bar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Checkbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Checkbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Colors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/ContextMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/ContextMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/DataView.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/DataView.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/DataView/DataViewExpansion.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/DataView/DataViewExpansion.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/DataView/DataViewSelect.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/DataView/DataViewSelect.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/DateRangePicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/DateRangePicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/DiscButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/DiscButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Distribution.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Distribution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/DropDown.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/DropDown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/EmptyStateCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/EmptyStateCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/EthIdenticon.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/EthIdenticon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Everything.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Everything.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/FloatIndicator.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/FloatIndicator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Help.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Help.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Icons.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Icons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/IdentityBadge.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/IdentityBadge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Info.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Info.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Input.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Input.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/LineChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/LineChart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Link.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Link.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/LinkedSliders.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/LinkedSliders.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/LoadingRing.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/LoadingRing.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Modal.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Modal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/NavigationBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/NavigationBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Popover.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Popover.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/ProgressBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/ProgressBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Radio.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Radio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/RadioList.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/RadioList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Scratchpad.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Scratchpad.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/SidePanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/SidePanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Switch.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Switch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/SyncIndicator.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/SyncIndicator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Tabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Tabs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Tag.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Tag.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/TextCopy.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/TextCopy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/TextStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/TextStyles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Timer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/TokenBadge.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/TokenBadge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/TransactionBadge.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/TransactionBadge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/TransactionProgress.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/TransactionProgress.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Viewport.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Viewport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/apps/Wrappers.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/apps/Wrappers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/components/SplitSurfaces.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/components/SplitSurfaces.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/components/current-theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/components/current-theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devbox/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/devbox/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/components/Page/Frame.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/components/Page/Frame.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/components/Page/MarkdownContent.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/components/Page/MarkdownContent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/components/Page/Page.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/components/Page/Page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/components/Page/Resizable.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/components/Page/Resizable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/components/Sidebar/MenuItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/components/Sidebar/MenuItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/components/Sidebar/Sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/components/Sidebar/Sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageAddressField.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageAddressField.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageAutoComplete.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageAutoComplete.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageBackButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageBackButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageCheckBox.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageCheckBox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageCircleGraph.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageCircleGraph.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageContextMenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageContextMenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageDateRangePicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageDateRangePicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageDistribution.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageDistribution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageDropDown.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageDropDown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageEmptyStateCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageEmptyStateCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageEthIdenticon.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageEthIdenticon.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageField.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageField.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageHome.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageHome.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageIcons.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageIcons.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageIdentityBadge.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageIdentityBadge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageLineChart.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageLineChart.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageLink.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageLink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageModal.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageModal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PagePagination.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PagePagination.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PagePopover.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PagePopover.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PagePreFooter.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PagePreFooter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageProgressBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageProgressBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageRadio.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageRadio.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageRadioGroup.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageRadioGroup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageRadioList.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageRadioList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageRedraw.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageRedraw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageRedrawFromDate.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageRedrawFromDate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageRoot.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageRoot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageRootPortal.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageRootPortal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageSidePanel.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageSidePanel.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageSlider.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageSlider.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageSwitch.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageSwitch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageTable.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageTable.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageTabs.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageTabs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageTextCopy.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageTextCopy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageTextInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageTextInput.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageTextStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageTextStyles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageTimer.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageTimer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageToastHub.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageToastHub.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageTransactionBadge.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageTransactionBadge.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageTransactionProgress.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageTransactionProgress.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/src/pages/PageViewport.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/src/pages/PageViewport.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/gallery/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/generate-icons" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/generate-icons" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/providers/observe/observe.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/providers/observe/observe.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1X3ohrUNLPQNqw3BAoE4hbaeENs" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d69c19aa-3ed7-439b-bee2-cada02dbe1ec" name="Default Changelist" comment="" />
+      <created>1580284260072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580284260072</updated>
+      <workItem from="1580284261395" duration="1288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

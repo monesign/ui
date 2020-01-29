@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { LoadingRing } from '@aragon/ui'
+import { LoadingRing } from '@monesign/ui'
 
 function App() {
   const [paused, setPaused] = useState(false)

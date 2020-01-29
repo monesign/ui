@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { unselectable, theme } from '@aragon/ui'
+import { unselectable, theme } from '@monesign/ui'
 
 const ResizableContainer = styled.div`
   display: flex;

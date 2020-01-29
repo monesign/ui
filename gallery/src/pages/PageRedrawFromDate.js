@@ -2,7 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import Page from 'comps/Page/Page'
 
-import { RedrawFromDate } from '@aragon/ui'
+import { RedrawFromDate } from '@monesign/ui'
 import Container from '../components/Page/DemoContainer'
 
 const redrawDemo = (date, label) => {

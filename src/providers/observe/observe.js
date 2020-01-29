@@ -48,7 +48,7 @@ const observe = (observe, initialState = {}) => Component =>
     render() {
       warnOnce(
         'observe()',
-        'observe() is deprecated. If you are using it with @aragon/api, using @aragon/api-react is now recommended instead.'
+        'observe() is deprecated. If you are using it with @monesign/api, using @aragon/api-react is now recommended instead.'
       )
       const { ...props } = this.props
       // Don't pass down the given observable

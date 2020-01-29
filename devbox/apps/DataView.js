@@ -16,7 +16,7 @@ import {
   IdentityBadge,
   useTheme,
   noop,
-} from '@aragon/ui'
+} from '@monesign/ui'
 import { createAddress } from '../create-address'
 import { createRandomInt, multiplyArray, seedShuffleArray } from '../utils'
 

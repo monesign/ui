@@ -1,5 +1,5 @@
 import React from 'react'
-import { Bar, BackButton, Button } from '@aragon/ui'
+import { Bar, BackButton, Button } from '@monesign/ui'
 
 export default () => (
   <div

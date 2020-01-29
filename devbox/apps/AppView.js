@@ -1,5 +1,5 @@
 import React from 'react'
-import { AppView } from '@aragon/ui'
+import { AppView } from '@monesign/ui'
 import Lorem from '../components/Lorem'
 
 function App() {

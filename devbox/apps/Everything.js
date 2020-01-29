@@ -50,7 +50,7 @@ import {
   useLayout,
   useTheme,
   useToast,
-} from '@aragon/ui'
+} from '@monesign/ui'
 import { ToggleThemeButton } from '../components/current-theme'
 import { createAddress } from '../create-address'
 import { multiplyArray, seedShuffleArray } from '../utils'
